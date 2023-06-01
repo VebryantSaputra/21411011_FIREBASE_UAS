@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030320220659",
+    "project_id": "project-firebase-cbab8",
+    "storage_bucket": "project-firebase-cbab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030320220659:android:d6b7beaaa3585cb2978a86",
+        "android_client_info": {
+          "package_name": "com.example.a21411011_tugas_logincontent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoNQCW-zFDx-m29gEvJe7qj1jC10ZpyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
